@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp"
+    android:gravity="center"
+    android:background="#000000">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:text="@string/welcome"
+        android:textColor="#22BA17"
+        android:textSize="60sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:autofillHints="Thanh Dat"
+        android:hint="@string/first_name"
+        android:inputType="textPersonName"
+        android:textColor="#1780BA"
+        android:textColorHint="#0C8FD0"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:padding="12dp"
+        android:background="@drawable/edittext_darkmode"/>
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:autofillHints="8104425"
+        android:hint="@string/enter_student_id_without_s"
+        android:inputType="numberPassword"
+        android:layout_width="match_parent"
+        android:textColor="#1780BA"
+        android:textColorHint="#0C8FD0"
+        android:layout_height="48dp"
+        android:padding="12dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edittext_darkmode"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/button_darkmode"
+        android:text="@string/Login"
+        android:textSize="20sp"
+        android:textColor="#1780BA"
+        android:gravity="center"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

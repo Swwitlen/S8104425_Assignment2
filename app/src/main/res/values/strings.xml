@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">S8104425Assignment2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_student_id_without_s">Enter Student ID (without \'s\')</string>
+    <string name="Login">Login</string>
+    <string name="first_name">First Name</string>
+    <string name="welcome">Welcome</string>
+</resources>
