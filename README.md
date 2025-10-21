@@ -53,7 +53,7 @@ and 5 layout:
 
 **Step 2: Clone the repository**
 - Download zipfile from github and extract it
-- 
+
 **Step 3: Open the project on Android Studio**
 - Open the file after launching Android Studio by clicking file --> Open
 (Wait for Gradle to sync or click "Sync Now" if it doesnt sync automatically
@@ -61,14 +61,14 @@ and 5 layout:
 **Step 4: Configure SDK**
 - Make sure Android SDK 36 intalling by clicking file --> Project Structure --> SDK Location 
 - Create a virtual device by clicking Tools --> Device Manager --> Create Device
-- 
+
 **Step 5: Build the app**
 - Building the app by clicking Build --> Make Project
 (notes: "BUILDING SUCCESSFUL" will appeared in the bottom status bar when the builds succeeds
 
 **Step 6: Run the app**
 - Select your emulator and click "Run" button
-- 
+
 **Step 7: Testing**
 - The login screen will appear after you click run button, enter username and pass word to be taken to the Dashboard screen and select on any entity to go to the Details screen
 
