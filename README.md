@@ -31,14 +31,14 @@ and 5 layout:
 - item_entity.xml
 
 ##**Technology used**
-1.Kotlin          : Android development
-2.Retrofit        : networking
-3.Hilt            :dependancy injection
-4.Moshi           :JSON serialization
-5.Coroutines      : async operation
-6.RecycleView     : list display
-7.JUnit & Mockito : unit test
-8. Android jetpack components
+- Kotlin          : Android development
+- Retrofit        : networking
+- Hilt            :dependancy injection
+- Moshi           :JSON serialization
+- Coroutines      : async operation
+- RecycleView     : list display
+- JUnit & Mockito : unit test
+- Android jetpack components
 
 ## **Build and run the app**
 **Notice**
